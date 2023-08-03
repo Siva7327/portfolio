@@ -1,0 +1,55 @@
+/* div{
+    height: 200px;
+    width:200px;
+    background-color: rgb(42, 108, 165);
+    margin: 0px 40px 0px 40px;
+    padding: 40px;
+}
+p{
+text-decoration: overline;
+letter-spacing: 5px;
+text-shadow: 5px 5px red;
+font-size: 50px;
+
+} */
+h1{
+    color: white;
+}
+header{
+    background-color: brown;
+    height: 100px;
+    padding: 20px;
+}
+ul,li,a{
+    display: inline;
+    color: bisque;
+    padding:20px;
+    text-decoration:none;
+}
+#home img{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+}
+#Bio h2{
+    text-indent: 1;
+}
+#Skills h2{
+    background-color: white;
+    color: rgb(66, 72, 72);
+}
+#Skills li{
+    background-color: white;
+    color: rgb(130, 66, 32);
+}
+#Portfolio{
+    background-color: rgb(143, 209, 164);
+}
+footer{
+    background-color: rgb(25, 19, 52);
+    height:20px;
+}
+footer p{
+    color:rgb(247, 243, 239);
+    height: 50px;
+}
